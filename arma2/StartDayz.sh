@@ -1,0 +1,1 @@
+WINEPREFIX="/home/arma/.wine" wine Expansion/beta/arma2oaserver.exe -mod=Expansion/beta\;Expansion/beta/expansion\;expansion\;ca\;@dayz\;@hive -port=2302 -profiles=cfgdayz -config=cfgdayz/server.cfg -cfg=cfgdayz/basic.cfg
